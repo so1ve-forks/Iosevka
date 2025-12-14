@@ -21,16 +21,6 @@ shape = 700
 menu = 700
 css = 700
 
-[buildPlans.RIosevka.weights.Light]
-shape = 300
-menu = 300
-css = 300
-
-[buildPlans.RIosevka.widths.Condensed]
-shape = 500
-menu = 3
-css = "condensed"
-
 [buildPlans.RIosevka.widths.Normal]
 shape = 600
 menu = 5
